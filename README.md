@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello!<br>Current Computer Engineer at Paderborn University<br>I'm currently working on GenAI project<br>Looking forward to expand my Knowledge in the field of AI<br><br>
+Hello!<br>Currently pursuing Computer Engineer at Paderborn University<br>I'm currently working on GenAI project<br>Motivate to expand my Knowledge in the field of AI<br><br>
 
 
 ## 🌐 Socials:
